@@ -6,4 +6,4 @@
 2. Demonstrate the use of String Builder/ Buffer by reading in from a text file.
 3. Present the contents of the file to a web page at a specific url through a servlet. 
 4. Log in a database some information that you can get from the request.
-5. Have a way to query the database and print all request records to a file.
+5. (OPTIONAL) Have a way to query the database and print all request records to a file.
